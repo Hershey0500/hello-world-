@@ -1,0 +1,12 @@
+schema: "classroom50/repo-config/v1"
+classroom: "it3038c-leonard-fall-2025"
+assignment: "bash-basics"
+owner:
+  username: "Hershey0500"
+  id: 181763879
+  accepted_at: "2026-08-31T19:47:50Z"
+source:
+  owner: "IT3038C-Leonard-SP24"
+  owner_id: 154370093
+  repo: "Bash-Basics"
+  branch: "main"
